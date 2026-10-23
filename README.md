@@ -1,7 +1,7 @@
 # cortex
 a site i dump my stupid rhtoughts into. yeah
 
-**live site** [https://deathpl.github.io](https://deathpl.github.io)
+# THIS IS THE OLD SITE
 
 ## comit histori
 1. Changed README.md (3)
